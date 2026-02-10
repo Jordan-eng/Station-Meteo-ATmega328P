@@ -20,6 +20,8 @@ Capteur	DHT22 (Température & Humidité)
 Alimentation	LD1117S50 (Régulateur 5V)
 Cristal	Quartz 16MHz + 2x 22pF
 📐 Schéma Électrique
+<img width="3507" height="2480" alt="schematic" src="https://github.com/user-attachments/assets/c41906f2-4135-4303-9271-9415c139926e" />
+
 
 Le projet a été conçu avec KiCad 7. Vous trouverez les fichiers sources dans le dossier /hardware.
 Points clés de la conception :
@@ -48,7 +50,7 @@ Le code est écrit en C++/Arduino. Les bibliothèques suivantes sont requises :
 
 🔧 Installation
 
-    Clonez le dépôt : git clone https://github.com/votre-nom/station-meteo.git
+    Clonez le dépôt : git clone https://github.com/Jordan-eng/-Station-Meteo-Connectee-ATmega328P-/
 
     Ouvrez le schéma sous KiCad pour visualiser le circuit.
 
