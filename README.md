@@ -47,6 +47,10 @@ Le code est écrit en C++/Arduino. Les bibliothèques suivantes sont requises :
     📂 firmware/ : Code source Arduino/C++.
 
     📂 assets/ : Images et schémas du projet.
+    
+    📂 station_meteo.csv : Ficher Bill of materials(BOM) pour les composants 
+    
+    📂 station_meteo-top-pos.csv : Ficher CPL
 
 🔧 Installation
 
@@ -61,3 +65,4 @@ Prochaines étapes suggérées :
     Ajouter une interface Wi-Fi (ESP8266) pour envoyer les données sur le cloud.
 
     Concevoir un boîtier 3D sur mesure.
+
